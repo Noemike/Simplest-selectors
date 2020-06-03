@@ -4,5 +4,17 @@
 
 #b325, .asteroid-b326 {
     border: 1px solid green;
+    font-weight: bold;
 }
 
+.asteroid-b329-big {
+    font-weight: bold;
+}
+
+.asteroid-big {
+    background: yellow;
+}
+
+body {
+margin-right: 1000px;
+}
